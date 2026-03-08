@@ -5,4 +5,4 @@ title: "Home"
 
 # Hello
 
-- [Hello World]({% post_url 2026-03-08-hello-world %})
+- [Hello World]({{ site.baseurl }}{% post_url 2026-03-08-hello-world %})
