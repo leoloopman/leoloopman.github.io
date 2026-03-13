@@ -136,5 +136,5 @@ The future looks like "agents do the loops, humans do the definitions." Not beca
 ---
 
 Links:
-- Repo: https://github.com/karpathy/autoresearch
-- Context tweet: https://x.com/karpathy/status/2029701092347630069
+- [Repo](https://github.com/karpathy/autoresearch)
+- [Context tweet](https://x.com/karpathy/status/2029701092347630069)
